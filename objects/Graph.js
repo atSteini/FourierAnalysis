@@ -69,8 +69,6 @@ class Graph {
     }
 
     showTitle(titleString) {
-        //TODO: Not working for some reason...
-
         this.title = {
             display: true,
             text: titleString
