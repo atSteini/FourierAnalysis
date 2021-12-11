@@ -1,0 +1,7 @@
+{
+  "name": "Steinkellner_FourierAnalysis",
+  "version": "1.0.0",
+  "dependencies": {
+    "chartjs-plugin-datalabels": "^2.0.0"
+  }
+}

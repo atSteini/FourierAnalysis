@@ -1,0 +1,15 @@
+.defaultChart {
+    margin: auto;
+    position: relative;
+    width:75%;
+    height: 50%;
+}
+
+.center-horizontal {
+    margin: 0 auto;
+    display: block;
+}
+
+.defaultContainer {
+    border-bottom: 1px solid #424242;
+}
