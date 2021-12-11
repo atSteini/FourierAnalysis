@@ -4,6 +4,7 @@ When loading the page, the calculated values are logged to the console :100:.
 
 ## :book: Libraries
 This project uses the [Chart.js](https://www.chartjs.org/docs/latest/) library for displaying the charts.<br>
+For displaying annotation on the charts the [Chart.js Datalabels Plugin](https://chartjs-plugin-datalabels.netlify.app/guide/) was used.<br>
 [JQuery](https://jquery.com/download/) is used to tidy up the dom methods.
 
 ## :floppy_disk: Screenshots
